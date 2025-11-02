@@ -3,6 +3,7 @@ Assets for the app icon/logo used by ARMSX2, made available under the MIT licens
 
 ## Credits
 **fffathur:** Original design for icon and other assets
+
 **Vivimagic:** Adaptive icon for Android
 
 ## Preview
