@@ -1,5 +1,5 @@
 # Save-Tower
-Assets for the app icon/logo used by ARMSX2, made available under the MIT license.
+This repository contains the branding assets used by ARMSX2, made available under the MIT license.
 
 ## Credits
 **fffathur:** Original design for icon and other assets
